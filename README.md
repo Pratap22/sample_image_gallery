@@ -1,2 +1,2 @@
 # sample_image_gallery
-Trying my first HTML code
+Trying my first HTML and CSS Code
