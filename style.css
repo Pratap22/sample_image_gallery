@@ -1,0 +1,39 @@
+/* selector {
+	proverty : value;
+} */
+body {
+	background-color: #93D4D4; 
+	background-size: cover;
+}
+p {
+	color: red;
+	text-align: center;
+	border : 2px solid;
+	cursor: pointer;
+}
+p {
+	color :blue;
+	line-height: 30px;
+	font-style:  italic;
+	font-family: Georgia;
+}
+footer {
+	clear: both;
+	text-align: center;
+}
+img {
+	align-items: center;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
+.webtext{
+	border: 3px dashed green;
+}
+#div1 {
+	background: rgba(255, 0, 0, 0.2);
+}
+#div2 {
+	background: rgba(0, 255, 0, 0.2);
+}
